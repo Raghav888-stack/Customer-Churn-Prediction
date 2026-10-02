@@ -153,11 +153,3 @@ Future iterations could explore:
 
 ---
 
-## 12. Project Structure
-
-```text
-Customer-Churn-Prediction/
-│
-├── churn_analysis.ipynb
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv
-└── README.md
