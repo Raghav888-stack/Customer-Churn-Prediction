@@ -1,6 +1,6 @@
 # Customer-Churn-Prediction
 Machine learning project for predicting telecom customer churn using data preprocessing, exploratory analysis, Logistic Regression, and Random Forest.
-# Customer Churn Prediction
+
 
 ## 1. Project Overview
 
